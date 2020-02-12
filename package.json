@@ -16,7 +16,7 @@
 		"express": "^4.14.1",
 		"express-session": "^1.17.0",
 		"helmet": "^3.4.0",
-		"mongodb": "^2.2.22",
+		"mongodb": "^2.2.36",
 		"passport": "^0.4.1",
 		"pug": "^2.0.4"
 	},
